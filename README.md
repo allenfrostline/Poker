@@ -1,4 +1,4 @@
-<img src="/resources/icon.png" height=100%>
+<img src="/resources/icon.png" height=100>
 
 # Poker
 
