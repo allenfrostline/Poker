@@ -11,9 +11,9 @@ You don't need any Python or module dependencies installed on your Mac in order 
 1. Download the app from [here](https://drive.google.com/file/d/1vpxAMru_WIOT3-9VLIs6PxqR5couAUEj/view?usp=sharing).
 2. Double click it.
 
-Or rather, if you'd like to pack it yourself:
-
 <p align="center"><img src="/resources/screenshot.png" width=80%></img></p>
+
+Or rather, if you'd like to pack it yourself:
 
 1. Download this [repo](https://github.com/allenfrostline/Poker).
 2. Pack it using `PyInstaller` in `--onefile` mode.
