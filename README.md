@@ -13,7 +13,7 @@ You don't need any Python or module dependencies installed on your Mac in order 
 
 Or rather, if you'd like to pack it yourself:
 
-<div style="text-align:center"><img src="/resources/screenshot.png" width=80%></img></div>
+<p align="center"><img src="/resources/screenshot.png" width=80%></img></p>
 
 1. Download this [repo](https://github.com/allenfrostline/Poker).
 2. Pack it using `PyInstaller` in `--onefile` mode.
