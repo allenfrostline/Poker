@@ -41,7 +41,8 @@ There're several things to work on in plan:
 Here are some bugs I'm trying to fix:
 
 - Side pot. It's tricky and I havn't found a way to implement it simple.
-- Freeze at start. The app starts and then freezes for a sec. This is because Python is openning the hand value table. Perhaps I should try threading for this particular task (no need for the rest of the game). I'll also try to compress the table in a better way (like functionize it).
+- Side pot. It's tricky and I havn't found a way to implement it simple.
+- ~~Freeze at start. The app starts and then freezes for a sec. This is because Python is openning the hand value table. Perhaps I should try threading for this particular task (no need for the rest of the game). I'll also try to compress the table in a better way (like functionize it).~~ Working on the animated `Popup` element in `PySimpleGUI`.
 
 ### Acknowledgement
 
