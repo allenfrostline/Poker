@@ -2,7 +2,7 @@
 
 # Poker
 
-This is a simple Texas Hold 'em game running on Mac OS. All scripts are written in pure Python. The main GUI is written using the Python module `PySimpleGUI`, and hand evaluation is done by refering to a hand value table pre-calculated together with Monte Carlo simulation. See [here](https://allenfrostline.com/2019/04/09/texas-holdem-series-4/) for detailed explanation of hand evaluation. Together with the GUI version, I also include here a primitive commmandline version with `ColorPrint` support, which you may download and include from this [repo](https://github.com/allenfrostline/Python-Color-Print). The two versions are supposed to work identically.
+This is a simple Texas Hold 'em game running on MacOS. All scripts are written in pure Python. The main GUI is written using the Python module `PySimpleGUI`, and hand evaluation is done by refering to a hand value table pre-calculated together with Monte Carlo simulation. See [here](https://allenfrostline.com/2019/04/09/texas-holdem-series-4/) for detailed explanation of hand evaluation. Together with the GUI version, I also include here a primitive commmandline version with `ColorPrint` support, which you may download and include from this [repo](https://github.com/allenfrostline/Python-Color-Print). The two versions are supposed to work identically.
 
 ### Usage
 
