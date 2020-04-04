@@ -4,8 +4,6 @@ aiodns==2.0.0
 aiohttp==3.6.2
 alabaster==0.7.12
 alembic==1.0.11
-altair==3.0.0
-apache-airflow==1.10.7
 apispec==1.3.3
 appdirs==1.4.3
 appnope==0.1.0
@@ -14,7 +12,6 @@ argcomplete==1.11.1
 asn1crypto==0.24.0
 astor==0.7.1
 async-timeout==3.0.1
-atari-py==0.1.7
 atomicwrites==1.3.0
 attrs==19.3.0
 audioread==2.1.6
@@ -22,15 +19,11 @@ Automat==0.7.0
 Babel==2.6.0
 backcall==0.1.0
 bcolz==1.2.0
-beautifulsoup4==4.7.1
-bleach==3.1.0
-bokeh==1.4.0
 Bottleneck==1.2.1
 bs4==0.0.1
 cached-property==1.5.1
 catboost==0.14.2
 cattrs==0.9.0
-ccxt==1.18.993
 certifi==2019.3.9
 cffi==1.12.3
 chardet==3.0.4
@@ -167,7 +160,6 @@ pendulum==1.4.4
 pexpect==4.7.0
 pickleshare==0.7.5
 pikepdf==1.6.3
-Pillow==6.0.0
 pip-review==1.0
 plaidml==0.5.0
 plaidml-keras==0.5.0
@@ -181,7 +173,6 @@ prometheus-client==0.6.0
 prompt-toolkit==2.0.9
 protobuf==3.7.1
 proxypool==2.0.0
-psutil==5.6.1
 psycopg2==2.8.3
 psycopg2-binary==2.8.3
 ptyprocess==0.6.0
@@ -191,7 +182,6 @@ pyasn1-modules==0.2.5
 pycares==3.0.0
 pycparser==2.19
 pycrayon==0.5
-pycrypto==2.6.1
 pyct==0.4.6
 PyDispatcher==2.0.5
 pyfinance==1.2.7
@@ -233,8 +223,6 @@ scikit-image==0.15.0
 scikit-learn==0.20.3
 scipy==1.2.1
 Scrapy==1.6.0
-seaborn==0.9.0
-selenium==3.141.0
 Send2Trash==1.5.0
 service-identity==18.1.0
 setproctitle==1.1.10
@@ -263,9 +251,6 @@ tablib==1.1.0
 tabulate==0.8.3
 tb-nightly==1.14.0a20190301
 tenacity==4.12.0
-tensorboard==1.13.1
-tensorflow==1.13.1
-tensorflow-estimator==1.13.0
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
@@ -279,7 +264,6 @@ torchvision==0.3.0
 tornado==6.0.2
 tqdm==4.31.1
 traitlets==4.3.2
-Twisted==19.2.0
 typing==3.6.6
 typing-extensions==3.7.4.1
 tzlocal==1.5.1
@@ -289,16 +273,13 @@ w3lib==1.20.0
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.56.0
-Werkzeug==0.15.2
 widgetsnbextension==3.4.2
-wordcloud==1.5.0
 wrapt==1.11.1
 WTForms==2.2.1
 xgboost==0.82
 xlrd==1.2.0
 XlsxWriter==1.1.8
 xmltodict==0.12.0
-yahoo-finance-api2==0.0.8
 yapf==0.27.0
 yarl==1.1.0
 zipp==2.1.0
