@@ -121,7 +121,7 @@ line-profiler==2.1.1
 llvmlite==0.28.0
 lockfile==0.12.2
 Logbook==1.4.3
-lxml==4.3.3
+lxml==4.6.2
 Mako==1.0.14
 Markdown==2.6.11
 MarkupSafe==1.1.1
