@@ -1,7 +1,7 @@
 absl-py==0.9.0
 acpc-python-client==1.0
 aiodns==2.0.0
-aiohttp==3.6.2
+aiohttp==3.7.4
 alabaster==0.7.12
 alembic==1.0.11
 apispec==1.3.3
