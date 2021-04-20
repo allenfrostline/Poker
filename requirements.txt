@@ -159,7 +159,7 @@ pbr==5.4.1
 pendulum==1.4.4
 pexpect==4.7.0
 pickleshare==0.7.5
-pikepdf==1.6.3
+pikepdf==2.10.0
 pip-review==1.0
 plaidml==0.5.0
 plaidml-keras==0.5.0
