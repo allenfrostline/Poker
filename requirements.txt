@@ -143,7 +143,7 @@ nbformat==4.4.0
 networkx==2.3
 notebook==5.7.8
 numba==0.43.1
-numpy==1.18.1
+numpy==1.22.0
 numpydoc==0.9.1
 opencv-python==4.1.0.25
 optuna==0.13.0
