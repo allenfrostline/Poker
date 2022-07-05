@@ -179,7 +179,7 @@ ptyprocess==0.6.0
 py==1.8.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
-pycares==3.0.0
+pycares==4.2.0
 pycparser==2.19
 pycrayon==0.5
 pyct==0.4.6
