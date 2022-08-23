@@ -138,7 +138,7 @@ msgpack==0.6.1
 multidict==4.5.2
 multitasking==0.0.9
 mxnet==1.5.1.post0
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.3
 notebook==5.7.8
